@@ -1,0 +1,146 @@
+.user{
+  background-image: url('../../assets/user-bgimage.jpg');
+  padding-top: 4%;
+  padding-bottom: 5%;
+} 
+
+.user-container{
+  max-width: 400px;
+  margin: 0 auto;
+  /* padding-top: 15%; */
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* background-image: url('../../assets/user-bg.jpg'); */
+  /* background-image: url('../../assets/diana-polekhina-68rUfWnwWH0-unsplash.jpg'); */
+}
+
+.user-icon {
+  font-size: 55px;
+  /* text-align: center; */
+  width: 60px;
+  height: 60px;
+  /* margin-bottom: auto; */
+  /* align-items: center; */
+  margin-bottom: 16px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  color: blue;
+}
+
+h1 {
+  margin-top: 8px; /* Add some margin between the icon and heading */
+  text-align: center;
+}
+p{
+  margin-top: 8px; /* Add some margin between the icon and heading */
+  text-align: center;
+  /* padding-left: 10%; */
+  color: gray;
+}
+
+.radio{
+  text-align: center;
+  display: block;
+  position: relative;
+  padding-left: 30px;
+  margin-bottom: 15px;
+  cursor: pointer;
+}
+
+.btn{
+  /* position: relative; */
+  padding: 2%;
+  margin-top: 2px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  /* padding-right: 20%; */
+  /* justify-content: center; */
+  /* margin-left: auto;
+  margin-right: auto; */
+}
+
+img{
+  align-items: center;
+  width: 200px;
+  height: 60px;
+  margin-bottom: 16px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* input[type="radio"] {
+    position: absolute;
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+   */
+  /* Radio button container */
+  label {
+    display: block;
+    position: relative;
+    padding-left: 30px;
+    margin-bottom: 15px;
+    cursor: pointer;
+  }
+  
+  /* Radio button control */
+  label::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 20px;
+    height: 20px;
+    border: 2px solid #ccc;
+    border-radius: 50%;
+  }
+  
+  /* Radio button dot */
+  label::after {
+    content: "";
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #ccc;
+    opacity: 0;
+    transition: opacity 0.2s ease-in;
+  }
+  
+  /* Radio button checked state */
+  input[type="radio"]:checked + label::after {
+    opacity: 1;
+  }
+  
+  /* Responsive styles */
+  @media screen and (max-width: 600px) {
+    /* Adjust padding and size for smaller screens */
+    label {
+      padding-left: 25px;
+    }
+    
+    label::before {
+      width: 16px;
+      height: 16px;
+    }
+    
+    label::after {
+      top: 4px;
+      left: 4px;
+      width: 6px;
+      height: 6px;
+    }
+  }
+  

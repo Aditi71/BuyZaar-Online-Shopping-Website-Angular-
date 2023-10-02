@@ -1,0 +1,18 @@
+<div class="login">
+  <button mat-button color="primary" (click)="goBack()">Back</button>
+  <div class="login-container">
+    <img src="../assets/logo.png" alt="Logo">
+    <h1>Login</h1>
+    <form (ngSubmit)="onSubmit()" fxLayout="column" fxLayoutAlign="center center">
+      <mat-form-field appearance="outline">
+        <input matInput placeholder="Username" [(ngModel)]="formData.username" name="username" required>
+      </mat-form-field>
+      <mat-form-field appearance="outline">
+        <input matInput type="password" placeholder="Password" [(ngModel)]="formData.password" name="password" required>
+      </mat-form-field>
+      <button mat-raised-button color="primary" type="submit">Login</button>
+    </form>  
+  </div>
+</div>
+
+  

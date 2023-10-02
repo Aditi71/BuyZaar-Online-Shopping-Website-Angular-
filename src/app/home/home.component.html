@@ -1,0 +1,48 @@
+<div class="home-container">
+    <div class="banner">
+        <app-slider-banner></app-slider-banner>
+    </div>
+    
+    <div class="item">
+        <div class="container">
+            <h1 class="text-center"> Unlock Deals! with <span class="highlight">BuyZaar</span></h1>
+            <div class="row">
+                <div class="col-lg-3 mt-3 mb-3" *ngFor="let item of items; index as i">
+                    <div class="itembox" *ngIf="i <= 3">
+                        <div class="card">
+                            <img class="card-img-top" src="{{ item.image }}" alt="{{ item.heading }}">
+                            <div class="card-body">
+                                <h5 class="card-title">{{ item.heading }}</h5>
+                                <p class="card-text">{{ item.price }}</p>
+                                <button  class="viewdetailbtn" (click)="viewDetails(item.id)" class="btn btn-primary">View Details</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a routerLink="menu-ha" class="viewmorebtn" (click)="navToMenu()">View More Appliances<i class="bi bi-arrow-right"></i></a>
+        </div> 
+    </div>
+
+    <div class="cloth">
+        <div class="container">
+            <h1 class="text-center"> Grab Exciting <span class="highlight">Offers</span></h1>
+            <div class="row">
+                <div class="col-lg-3 mt-3 mb-3" *ngFor="let cloth of clothing; index as i">
+                    <div class="itembox" *ngIf="i <= 3">
+                        <div class="card">
+                            <img class="card-img-top" src="{{ cloth.image }}" alt="{{ cloth.title }}">
+                            <div class="card-body">
+                                <h5 class="card-title">{{ cloth.title }}</h5>
+                                <p class="card-text">{{ cloth.price }}</p>
+                                <button  class="viewdetailbtn" (click)="viewDetailCloth(cloth.id)" class="btn btn-primary">View Details</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a routerlink="menu-cloth" class="viewmore" (click)="navToMenuClothing()">View More Styles<i class="bi bi-arrow-right"></i></a>
+        </div> 
+    </div>
+      
+</div>

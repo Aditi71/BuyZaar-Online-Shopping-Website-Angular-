@@ -1,0 +1,22 @@
+<div class="slider-container">
+    <ng-container *ngFor="let item of items; let i = index">
+      <div class="slider-item" [ngClass]="{'active': i === currentIndex}" [@slideAnimation]="(i === currentIndex ? 'active' : 'inactive')">
+        <!-- Your banner content here -->
+        <div class="sliding-banner">
+          <div class="banner-item1">
+            <img [src]="item.image" alt="{{ item.title }}" />
+            <!-- <h3>{{ item.title }}</h3> -->
+          </div>
+          <!-- <div class="banner-item2">
+            <img [src]="item.image" alt="{{ item.title }}" />
+            <h3>{{ item.title }}</h3>
+          </div> -->
+          <!-- <div class="banner-item3">
+            <img [src]="item.image" alt="{{ item.title }}" />
+            <h3>{{ item.title }}</h3>
+          </div> -->
+        </div>
+      </div>
+    </ng-container>
+</div>
+  

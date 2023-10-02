@@ -1,0 +1,77 @@
+.navbar {
+    display: flex;
+    padding: 0.5rem 1rem;
+  }
+  
+  .navbar-brand {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-nav {
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+  }
+  
+  /* .nav-item:first-child {
+    margin-left: auto; /* Add this line */
+  
+  .nav-item {
+    margin-left: 1rem;
+  }
+  
+  .navbar-toggler {
+    display: none;
+  }
+
+  .navbar-nav .nav-link:hover {
+    color: green;
+    text-decoration: underline;
+    font-weight: bold;
+  }
+  
+  /* Remove underline from links on the navbar brand and welcome text */
+  .navbar-brand:hover,
+  .welcome-text:hover {
+    text-decoration: none;
+  }
+
+/* Style the container for the welcome message */
+.welcome-container {
+  padding: 10px; /* Add padding for spacing */
+  background-color: #f0f0f0; /* Background color */
+  border-radius: 5px; /* Rounded corners */
+}
+
+/* Style the welcome text */
+.welcome-text {
+  font-size: 18px; /* Font size */
+  font-weight: bold; /* Bold text */
+  color: #007bff; /* Text color, you can change it to your desired color */
+}
+
+  
+  @media (max-width: 768px) {
+    .navbar-nav {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      position: absolute;
+      top: 86px;
+      left: 0;
+      background-color: #f8f9fa;
+      margin-left: 0; /* Add this line */
+    }
+  
+    .nav-item {
+      margin-left: 0;
+      margin-bottom: 1rem;
+    }
+  
+    .navbar-toggler {
+      display: block;
+    }
+  }
+  
+  

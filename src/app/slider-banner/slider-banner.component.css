@@ -1,0 +1,46 @@
+.slider-container {
+    position: relative;
+    height: 300px; /* Adjust as needed */
+}
+
+.slider-item{
+    position: absolute;
+    width: 100%;
+    height: 50%;
+    top: 0;  /* Align all items to the top */
+    left: 0;  /* Align all items to the left */
+    z-index: -1; /* Send all items to the background */
+  }
+
+  .slider-item img{
+    width: 100%;
+    height: 100%;
+    top: 0;  /* Align all items to the top */
+    left: 0;
+  }
+  
+  .slider-item.active {
+    z-index: 0; /* Bring the active item to the foreground */
+  }
+  
+
+
+/* .banner-item1{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('../../assets/banner2.jpg');
+    height: 600px;
+    background-position: center top;
+    background-size: cover;
+}
+.banner-item2{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('../../assets/banner2.jpg');
+    height: 600px;
+    background-position: center top;
+    background-size: cover;
+}
+.banner-item3{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('../../assets/banner2.jpg');
+    height: 600px;
+    background-position: center top;
+    background-size: cover;
+} */
+

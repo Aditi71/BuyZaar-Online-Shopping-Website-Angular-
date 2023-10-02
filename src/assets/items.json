@@ -1,0 +1,204 @@
+[
+  {
+    "id": 1,
+    "image": "../assets/TV.jpg",
+    "heading": "Samsung LED Smart TV (Glossy Black)",
+    "price": "₹25,999",
+    "description": "This TV boasts a compact 32-inch screen size, making it suitable for smaller spaces. With product dimensions of 3.3D x 28.8W x 17.3H centimeters, it's a space-efficient addition to your entertainment setup. The TV offers a resolution of 1366x768, ensuring clear and vibrant visuals for your viewing pleasure.", 
+    "Brand": "Samsung",
+    "modelName": "UA32T4340BKXXL",
+    "includedComponents": "1 LED TV, 1 User Manual, 1 Warranty Card, 1 Remote Control"
+  },
+    {
+      "id": 2,
+      "image": "../assets/refrigerator.jpg",
+      "heading": "Haier Refrigerator advanced technology",
+      "price": "₹36,599",
+      "description": "This 240-liter refrigerator features advanced Frost Free cooling technology for hassle-free maintenance. Its sleek Black Opal finish and external steel handle not only enhance its aesthetics but also ensure durability. With a 2 Star energy rating and an energy consumption of 270 units, it balances efficiency and capacity, while the toughened glass shelves offer convenience for organizing items.",
+      "Brand": "Haier",
+      "modelName": "HRF2902CKO",
+      "includedComponents": "1Year Product Warranty, 10 Years Compressor Warranty"
+    },
+    {
+      "id": 3,
+      "image": "../assets/oven.jpg",
+      "heading": "Lifelong Oven, Toaster & Griller",
+      "price": "₹29,000",
+      "description": "The Lifelong LLOT23 Oven Toaster Griller is a versatile kitchen appliance in a sleek black color, designed to meet various cooking needs. With compact dimensions of 45D x 28.5W x 34.5H centimeters, it's suitable for smaller kitchens. This appliance offers precise cooking control with features like temperature control and a timer, both adjustable through a convenient knob.",
+      "Brand": "Lifelong",
+      "modelName": "LLOT23",
+      "includedComponents": "1Year Product Warranty"
+    },
+    {
+      "id": 4,
+      "image": "../assets/ac.png",
+      "heading": "Daikin 0.8 Ton 3 Star, Fixed Speed Split AC",
+      "price": "₹49,199",
+      "description": "The Daikin split AC, with its non-inverter compressor and Power Chill operation, guarantees rapid cooling, making it an ideal choice for small-sized rooms up to 100 sq. ft. It boasts a 3 Star energy efficiency rating, ensuring both effective cooling and energy savings.",
+      "Brand": "Daikin",
+      "modelName": "LLOT23",
+      "includedComponents": "1Year Product Warranty"
+    },
+    {
+      "id": 5,
+      "image": "../assets/washing-machine.avif",
+      "heading": "LG fully automatic top-loading Washing Machine in classic white color design",
+      "price": "₹15,000",
+      "description": "This fully automatic top-loading washing machine offers a convenient and efficient laundry solution. With a generous 6-liter machine capacity, it can handle various loads effectively. Additionally, it comes with a substantial 3-year warranty, ensuring peace of mind and reliability in a classic white color design.",
+      "Brand": "LG",
+      "modelName": "LGOT23",
+      "includedComponents": "1Year Product Warranty"
+    },
+    {
+      "id": 6,
+      "image": "../assets/mixer.jpg",
+      "heading": "Maharaja Whiteline Ultramax Mixer Grinder robust impressive motor speed",
+      "price": "₹6,999",
+      "description": "With a robust 1000-Watt copper winding motor, this appliance ensures powerful and efficient grinding performance. Its unique feature allows for continuous grinding for up to 30 minutes, making it perfect for tackling large quantities of ingredients at once. Additionally, the impressive motor speed of 22,000 RPM ensures that your grinding tasks are completed quickly and effortlessly..",
+      "Brand": "Maharaja",
+      "modelName": "MWOT23",
+      "includedComponents": "2Year Product Warranty, SS jar set"
+    },
+    {
+      "id": 7,
+      "image": "../assets/desktop-computer.jpg",
+      "heading": "Core I5 Desktop Complete Computer System For Home&Business",
+      "price": "₹24,799",
+      "description": "The Generic business-oriented computer system comes equipped with Windows 10 Pro, offering a robust and secure operating environment for professional use. It boasts ample memory and storage capacity, with 16 GB of RAM and 512 GB of storage, ensuring efficient multitasking and data handling. The 18.5-inch screen provides a clear workspace, and its special feature of being wired ensures reliable connectivity in a sleek black design.",
+      "Brand": "Generic",
+      "modelName": "LLOT23",
+      "includedComponents": "1Year Product Warranty"
+    },
+    {
+      "id": 8,
+      "image": "../assets/mobile.jpg",
+      "heading": "OnePlus 8 Glacial Green,​ 5G Unlocked Android Smartphone U.S Version",
+      "price": "₹34,899",
+      "description": "The device features a super smooth 90-Hz refresh rate on its high-resolution AMOLED screen, making tasks like scrolling and app-switching effortless. Its impressive multimedia experience is complemented by a clear triple camera system, including a 48MP main camera, 16MP ultra-wide angle lens, and 2MP macro lens, along with a 16MP front camera. With 8 GB RAM, 128 GB internal storage, and a Qualcomm Snapdragon 865 processor with 5G connectivity, it offers high performance and data handling. The 4300 mAh battery supports WARP CHARGE 30T technology for ultra-fast charging, and the device runs on the Android 10 operating system..",
+      "Brand": "OnePlus",
+      "modelName": "OnePlus 8",
+      "includedComponents": "1Year Product Warranty"
+    },
+    {
+      "id": 9,
+      "image": "../assets/Air-purifier.jpg",
+      "heading": "Small Air Purifier HEPA - Air Purifier with True HEPA Filter",
+      "price": "₹16,999",
+      "description": "The Pro Breeze Mini air purifier comes in a sleek and compact design in a stylish color. Its product dimensions of 4.92 inches in diameter, 4.92 inches in width, and 5.3 inches in height make it perfect for small spaces. With an impressively low noise level of only 10 dB and user-friendly button controls, it ensures a quiet and convenient air purification experience.",
+      "Brand": "Pro Breeze",
+      "modelName": "PBOT23",
+      "includedComponents": "1Year Product Warranty"
+    },
+    {
+      "id": 10,
+      "image": "../assets/toaster.jpeg",
+      "heading": "Generic Electric Automatic 2 Slice Bread Toaster",
+      "price": "₹9,269",
+      "description": "The Generic 2 Slice Toaster in a classic stainless steel material and grill-style design adds a touch of simplicity to your kitchen. It offers a wattage of 750W and operates at 230V 50/60Hz, providing efficient toasting. With dimensions of approximately 21.5x11.5x16cm (8.5x4.5x6.3 inches), it's a compact and functional addition to your countertop. The package includes the toaster itself and an English manual for easy operation.",
+      "Brand": "Generic",
+      "modelName": "GEOT23",
+      "includedComponents": "1Year Product Warranty"
+    },
+    {
+      "id": 11,
+      "image": "../assets/heater.jpeg",
+      "heading": "Lava Carbon Room Heater by Maharaja Whiteline",
+      "price": "₹3,999",
+      "description": "This black-colored heater packs a powerful punch with its 1200W heating capacity, featuring three carbon technology rods (each 400W) for efficient and convenient warmth. It offers three heat settings and the added convenience of oscillation with a 180-degree angle, ensuring even heat distribution throughout the room. Safety features include a tip-over safety switch, making it a reliable and secure heating solution. Covered by a 1-year warranty, it provides peace of mind for those seeking comfort and convenience in their heating needs.",
+      "Brand": "Maharaja",
+      "modelName": "MLOT23",
+      "includedComponents": "1Year Product Warranty"
+    },
+    {
+      "id": 12,
+      "image": "../assets/cooler.jpeg",
+      "heading": "Symphony SIESTA 70 XL Desert Cooler - 70 L, White",
+      "price": "₹10.899",
+      "description": "The Symphony SIESTA 70 XL is a freestanding air cooler in a clean white color, designed for added convenience with its sleep mode feature. It boasts a substantial reservoir capacity of 70 litres, ensuring prolonged cooling without frequent refills. The cooler comes with five caster wheels for easy mobility and covers a floor area of 538.00 square feet. With a standby power consumption of 150 Watts, it offers an energy-efficient solution for cooling your space.",
+      "Brand": "Symphony",
+      "modelName": "SYOT23",
+      "includedComponents": "1Year Product Warranty"
+    },
+    {
+      "id": 13,
+      "image": "../assets/vaccum-cleaner.jpg",
+      "heading": "Flexio Power wet and dry vacuum cleaner",
+      "price": "₹9,999",
+      "description": "This wet and dry vacuum cleaner features compact dimensions, measuring 565 mm in height, 435 mm in width, and 475 mm in depth. It is designed for bagged dust collection and operates corded with manual controls. The vacuum has a robust 1600W motor and operates at a frequency of 50Hz, emitting a noise level of 85dB. It is suitable for a voltage range of 160-260V and has a dust container capacity of 0.5 liters. With a gross product weight of 11.4 kg and a net product weight of 9.4 kg, it also offers a water container capacity for effective wet cleaning.",
+      "Brand": "Flexio",
+      "modelName": "FLOT23",
+      "includedComponents": "1Year Product Warranty, Floor nozzle, Upholstery nozzle, Dusting brush"
+    },
+    {
+      "id": 14,
+      "image": "../assets/lamp.jpeg",
+      "heading": "HARRIET TABLE LAMP FLAX SHADE ABR",
+      "price": "₹7,875",
+      "description": "This elegant table lamp features an antique brass finish with a beige shade, adding a touch of vintage charm to your decor. The lamp is designed for an E27 lamp base and comes with one 7.5W A60 LED filament lamp included. With dimensions of 280 mm in diameter and 520 mm in height, it strikes a balance between style and functionality. The lamp itself weighs 1.9 kg, while the package includes a box with a weight of 2.1 kg, ensuring safe and secure delivery.",
+      "Brand": "HARRIET",
+      "modelName": "HOT23",
+      "includedComponents": "1Year Product Warranty"
+    },
+    {
+      "id": 15,
+      "image": "../assets/coffee-maker.jpeg",
+      "heading": "Phillips Coffee maker With aroma twister",
+      "price": "₹7,999",
+      "description": "This black coffee maker boasts technical specifications such as a cord length of 0.85 meters, operating voltage between 220-240V, and a frequency of 50/60Hz. It features a 0.6-liter water tank capacity and brews a jug of coffee in just 10 minutes. The compact design includes product dimensions of 210 x 172 x 270 mm, a weight of 1.58 kg, and comes with dishwasher-safe parts and a removable filter holder for easy cleaning and maintenance. With convenient features like water level indication and drip stop, it offers a power consumption of 700W, ensuring sustainability in your coffee brewing experience.",
+      "Brand": "Phillips",
+      "modelName": "PLOT23",
+      "includedComponents": "1Year Product Warranty, glassjug"
+    },
+    {
+      "id": 16,
+      "image": "../assets/fan.jpeg",
+      "heading": "Candes Brio Turbo Anti Dust 4 Blade Ceiling Fan",
+      "price": "₹2,599",
+      "description": "The Brio Turbo High Speed Decorative ceiling fan, in a stylish brown color, features four blades and a blade sweep of 600 mm, ensuring efficient airflow with 8000 cfm. It operates at 230V/50Hz and consumes 50W of power with a motor speed of 900, delivering high-speed cooling. The fan's sleek design is complemented by automatic CNC winding for reliability, superior ball bearings for quiet operation, and superior-grade electric steel lamination for durability and energy efficiency. It's suitable for various settings, including kitchens, verandas, balconies, and small rooms, and comes with a comprehensive package that includes all necessary components for installation.",
+      "Brand": "Candes",
+      "modelName": "LLOT23",
+      "includedComponents": "1Year Product Warranty"
+    },
+    {
+      "id": 17,
+      "image": "../assets/iron.jpeg",
+      "heading": "Electric Iron EI 3710 Heavy Weight Iron",
+      "price": "₹1990",
+      "description": "This iron appliance is equipped with a powerful 1000W heating element, ensuring rapid and efficient ironing. Its substantial weight of 1.75 kg adds stability and pressure for improved ironing results. The 360⁰ swivel cord enhances maneuverability, making it effortless to navigate and iron your garments with ease.",
+      "Brand": "Lifelong",
+      "modelName": "LIOT23",
+      "includedComponents": "1Year Product Warranty"
+    },
+    {
+      "id": 18,
+      "image": "../assets/kent.jpeg",
+      "heading": "KENT Copper RO + UV + UF + TDS Purifier",
+      "price": "₹18,299",
+      "description": "This water purifier employs a comprehensive purification process, combining RO, UV, UF, and TDS technologies to ensure the highest water quality. With a filtration capacity of 15 liters per hour and a storage capacity of 8 liters, it provides a constant supply of clean water. Featuring innovative technology like Zero Water Wastage and a UV LED light in the storage tank, it guarantees 100 percent pure water. The purifier comes with a 1-year warranty, providing peace of mind for its users.",
+      "Brand": "KENT",
+      "modelName": "KOT23",
+      "includedComponents": "1Year Product Warranty"
+    },
+    {
+      "id": 19,
+      "image": "../assets/dryer.png",
+      "heading": " HAIR DRYER WITH COOL SHOT",
+      "price": "₹1745",
+      "description": "This appliance operates at a voltage range of (220 - 240) V AC with a power wattage of 1200W. It has a net weight of 335g and a gross weight of 439g in its packaging. The safety features include double protection against overheating, ensuring user safety. With three temperature settings and a cool shot feature, this device offers versatile styling options for your hair.",
+      "Brand": "Lifelong",
+      "modelName": "HD3152",
+      "includedComponents": "1Year Product Warranty"
+    },
+    {
+      "id": 20,
+      "image": "./assets/microwave.avif",
+      "heading": "LG 28 L Convection Microwave Oven ",
+      "price": "₹12,699",
+      "description": "This microwave oven, of Indian origin, offers a convection cooking type with a black smog pattern/color and a side-swing door design. It features a 28-liter oven capacity and operates with a convection power consumption of 1950W and a grill power consumption of 1200W. The microwave oven has five power levels and includes convenient features like a child lock, completion beeper, and timed cook function for added versatility in cooking.",
+      "Brand": "LG",
+      "modelName": "MC2887BFUM",
+      "includedComponents": "1Year Product Warranty"
+    }
+  ]
+  
+  

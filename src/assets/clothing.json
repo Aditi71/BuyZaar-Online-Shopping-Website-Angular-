@@ -1,0 +1,72 @@
+[
+    {
+        "id": 21,
+        "image": "../assets/clothing/frock.jpg",
+        "title": "Women Ruffled Multicolor Dress",
+        "price": "₹499",
+        "description": ""
+    },
+    {
+        "id": 22,
+        "image": "../assets/top-image.jpeg",
+        "title": "Party Sleeveless Embellished Top",
+        "price": "₹658",
+        "description": ""
+    },
+    {
+        "id": 23,
+        "image": "../assets/clothing/tshirt.jpeg",
+        "title": "Men's Polo Neck Regular Fit Half Sleeves T-Shirt",
+        "price": "₹599",
+        "description": ""
+    },
+    {
+        "id": 24,
+        "image": "../assets/clothing/cargo.jpeg",
+        "title": "Jump Cuts Mens Printed Loose Fit Cargo Pant",
+        "price": "₹1,998",
+        "description": ""
+    },
+    {
+        "id": 25,
+        "image": "../assets/clothing/kurti.jpg",
+        "title": "Red Floral Embellished work Jumpsuit with Belt",
+        "price": "₹999",
+        "description": ""
+    },
+    {
+        "id": 26,
+        "image": "../assets/clothing/purse.jpeg",
+        "title": "Brisfine Women's Synthetic College Hand Purse Wallet",
+        "price": "₹678",
+        "description": ""
+    },
+    {
+        "id": 27,
+        "image": "../assets/clothing/earings.jpg",
+        "title": " Women Wear Casual Party Wear Earrings set ",
+        "price": "₹599",
+        "description": ""
+    },
+    {
+        "id": 28,
+        "image": "../assets/clothing/denim.jpg",
+        "title": "Urbano Fashion Men Washed Denim Jacket",
+        "price": "₹1,499",
+        "description": ""
+    },
+    {
+        "id": 29,
+        "image": "../assets/clothing/shoes.jpg",
+        "title": "RedTape Sneaker Casual Shoes For Men ",
+        "price": "₹2,699",
+        "description": ""
+    },
+    {
+        "id": 30,
+        "image": "../assets/clothing/wallet.jpeg",
+        "title": "Brown Handmade Men Short Leather Wallet",
+        "price": "₹699",
+        "description": ""
+    }
+]

@@ -1,0 +1,13 @@
+<div class="itemDetail-container">
+    <button mat-raised-button color="primary" class="button" (click)="goBack()">Back</button>
+    <div class="item-details" *ngIf="selectedCloth">
+        <img [src]="selectedCloth.image" alt="{{ selectedCloth.title }}">
+        <h2>{{ selectedCloth.title }}</h2>
+        <p>Price: {{ selectedCloth.price }}</p>
+        <p>Description: {{ selectedCloth.description }}</p>
+        <!-- Add other details here -->
+      </div>      
+    <a class="buybtn" >Buy Now &nbsp;<i class="bi bi-bag"></i></a>
+</div>
+
+  

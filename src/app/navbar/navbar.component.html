@@ -1,0 +1,30 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#">
+    <img src="../assets/logo.png" width="140" height="40" alt="Logo">
+  </a>
+  <button class="navbar-toggler" type="button" (click)="toggleNavbar()">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div [class.show]="!isNavbarCollapsed" class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" href="/user">User</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/home">Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/menu-ha">Home Appliances</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/menu-cloth">Fashion & syles</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#" (click)="logout()">Logout</a>
+      </li>
+    </ul>
+    <div class="welcome-container">
+      <span *ngIf="userService.getLoggedInStatus()" class="welcome-text">{{ userService.getUsername() }}!</span>
+    </div>
+  </div>
+</nav>
